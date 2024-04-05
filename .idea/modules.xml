@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.iml" filepath="$PROJECT_DIR$/.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysDemo/ArraysDemo.iml" filepath="$PROJECT_DIR$/ArraysDemo/ArraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions and loops/Conditions and loops.iml" filepath="$PROJECT_DIR$/Conditions and loops/Conditions and loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions_Methods/Functions_Methods.iml" filepath="$PROJECT_DIR$/Functions_Methods/Functions_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first/first.iml" filepath="$PROJECT_DIR$/first/first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-idea-program/first-idea-program.iml" filepath="$PROJECT_DIR$/first-idea-program/first-idea-program.iml" />
+    </modules>
+  </component>
+</project>
