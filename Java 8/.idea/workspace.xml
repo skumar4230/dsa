@@ -5,34 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c16e6731-d861-4a7c-a78a-b5d4313e6369" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28e4e8b300c2aa5f6e10b4e70dbd1675e9602007" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/368bc4ada139e9f0fcfa07742a0e0d855a9078bd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/8/28e4e8b300c2aa5f6e10b4e70dbd1675e9602007" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/6/368bc4ada139e9f0fcfa07742a0e0d855a9078bd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/example/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/example/Streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/Java 8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/2/8/28e4e8b300c2aa5f6e10b4e70dbd1675e9602007" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/securityhotspotstore/2/8/28e4e8b300c2aa5f6e10b4e70dbd1675e9602007" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/securityhotspotstore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/org/example/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java 8/org/example/Streams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java 8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java 8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/org/example/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/org/example/Streams.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,13 +39,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Streams.executor": "Run",
+    "Application.Test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "com.diffblue.cover.intellij"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Streams" />
       <module name="Java 8" />
@@ -82,8 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.defaultmethod.Test" />
+      <module name="Java 8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.defaultmethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Streams" />
       </list>
     </recent_temporary>
