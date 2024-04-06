@@ -38,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Mimi.executor": "Run",
     "Application.Streams.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.org.example.multithreading.Main.executor": "Run",
@@ -47,13 +48,26 @@
     "settings.editor.selected.configurable": "com.diffblue.cover.intellij"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.org.example.multithreading.Main">
+  <component name="RunManager" selected="Application.Mimi">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.functional_interface.Main" />
       <module name="Java 8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.functional_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.puchu.Mimi" />
+      <module name="Java 8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.puchu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mimi" />
         <item itemvalue="Application.org.example.multithreading.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />

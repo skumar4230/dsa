@@ -19,3 +19,7 @@ W
 'org/example/functional_interface/A.java,f\a\fa5e93806c493e762d76e1ece49f9d13cfecf11f
 T
 $org/example/multithreading/Main.java,9\0\90949781fb62e325a34ba8fd3e7ccda05b17d326
+K
+org/example/puchu/Dodo.java,e\1\e19cdd52f8040f307fe507f20619488ffdc56833
+K
+org/example/puchu/Mimi.java,e\a\ea8b73cf49eb32398ac7dc3d4d51ef77fb78f4f9
