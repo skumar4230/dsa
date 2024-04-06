@@ -17,3 +17,5 @@ Z
 *org/example/functional_interface/Main.java,5\6\56c519c7bafae38c8c6de020d9724a4cbf7386c3
 W
 'org/example/functional_interface/A.java,f\a\fa5e93806c493e762d76e1ece49f9d13cfecf11f
+T
+$org/example/multithreading/Main.java,9\0\90949781fb62e325a34ba8fd3e7ccda05b17d326
