@@ -13,3 +13,7 @@ W
 'org/example/defaultmethod/GreetExt.java,1\f\1f258c206d57fa9fee26394ecbb3632484c66bd3
 S
 #org/example/defaultmethod/Test.java,7\b\7b81ac62a2f4760feca20fea99cd45a5672e8006
+Z
+*org/example/functional_interface/Main.java,5\6\56c519c7bafae38c8c6de020d9724a4cbf7386c3
+W
+'org/example/functional_interface/A.java,f\a\fa5e93806c493e762d76e1ece49f9d13cfecf11f
