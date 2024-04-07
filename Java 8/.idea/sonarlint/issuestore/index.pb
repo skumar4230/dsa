@@ -1,12 +1,8 @@
 
-<
-Streams.java,2\8\28e4e8b300c2aa5f6e10b4e70dbd1675e9602007
 H
 org/example/Streams.java,3\0\3022a428a9c6c4c978582b342463608ef2cd22f9
 I
 org/example/Employee.java,3\6\368bc4ada139e9f0fcfa07742a0e0d855a9078bd
-H
-org/example/Default.java,1\f\1f14590ac4bcab32b7b36cfd2ff12be63f4ad793
 W
 'org/example/defaultmethod/Greeting.java,7\3\7360ef10a61dac71881388598ab7569d0244e167
 W
@@ -23,3 +19,15 @@ K
 org/example/puchu/Dodo.java,e\1\e19cdd52f8040f307fe507f20619488ffdc56833
 K
 org/example/puchu/Mimi.java,e\a\ea8b73cf49eb32398ac7dc3d4d51ef77fb78f4f9
+d
+4org/example/collection_framework/LearnArrayList.java,6\d\6d2ae467fd88ccc2ae4e7846819bbf872de3a68c
+E
+org/example/readme.md,3\1\318110082d30a71131a461e018ff460f5c8cf42d
+^
+.org/example/collection_framework/Iterator.java,b\d\bd080294dc6749aab5167238a373052d60770c42
+9
+	readme.md,2\7\275d783e298228506068436512433d343feb52aa
+M
+org/example/dsa/Practice.java,b\e\be2a6b1053daa5815152d1b6efb888ffb6a7880a
+_
+/org/example/collection_framework/ArrayList.java,c\d\cd748b834b3b02bfb539db60dc9e79c734cf4b56
