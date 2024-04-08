@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c16e6731-d861-4a7c-a78a-b5d4313e6369" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f14590ac4bcab32b7b36cfd2ff12be63f4ad793" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28e4e8b300c2aa5f6e10b4e70dbd1675e9602007" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90949781fb62e325a34ba8fd3e7ccda05b17d326" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90949781fb62e325a34ba8fd3e7ccda05b17d326" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea8b73cf49eb32398ac7dc3d4d51ef77fb78f4f9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea8b73cf49eb32398ac7dc3d4d51ef77fb78f4f9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/f/1f14590ac4bcab32b7b36cfd2ff12be63f4ad793" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/8/28e4e8b300c2aa5f6e10b4e70dbd1675e9602007" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/example/multithreading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/multithreading/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java 8/org/example/multithreading/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/org/example/multithreading/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/Streams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "skumar4230"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;skumar4230&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/skumar4230/dsa.git",
-    "accountId": "e78939bb-12a5-498a-9577-4d4c171deb9d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/skumar4230/dsa.git&quot;,
+    &quot;accountId&quot;: &quot;e78939bb-12a5-498a-9577-4d4c171deb9d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -63,6 +54,7 @@
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Mimi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
     &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.org.example.multithreading.Main.executor&quot;: &quot;Run&quot;,
@@ -77,7 +69,7 @@
       <recent name="D:\Java\Java 8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice">
+  <component name="RunManager" selected="Application.Streams">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.functional_interface.Main" />
       <module name="Java 8" />
@@ -117,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.defaultmethod.Test" />
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Streams" />
       <module name="Java 8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.defaultmethod.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Streams" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.org.example.multithreading.Main" />
         <item itemvalue="Application.Mimi" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>

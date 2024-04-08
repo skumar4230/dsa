@@ -1,0 +1,15 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(á„è²8œ„Æë1J$c6fad9f8-16b3-4464-aff1-cd15c33e75a8
+m	java:S106"+Replace this use of System.out by a logger.(á„è²8„Æë1J$8877b214-c13c-4935-9ab8-1688de8b0185
+r	java:S106"+Replace this use of System.out by a logger.(…Ç³ˆúÿÿÿÿ8„Æë1J$3c2ae55a-7c73-4e0d-b112-138bc6b8375b
+x
+java:S1611"5Remove the parentheses around the "element" parameter(®÷ƒû8Ÿ„Æë1J$7fd7d112-5461-4b8e-8c78-f0142e1c0497
+o
+java:S1602",Remove useless curly braces around statement(®÷ƒû8 „Æë1J$bb489cf8-80f8-45c7-89f0-f77f8d1917bc
+ƒ
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(®÷ƒû8¢„Æë1J$84391cec-1d78-4c79-824a-9fc74c79d4fe
+r	java:S106"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8¢„Æë1J$d4f87274-bf18-4c56-8388-a54991753569
+m	java:S106"+Replace this use of System.out by a logger.(á„è²8£„Æë1J$d31885dc-c264-4363-b701-a69d87f20719
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(°ê´¯ÿÿÿÿÿ8¤„Æë1J$942404c8-56a8-44b9-916a-8268add73f1e
+r	java:S106"+Replace this use of System.out by a logger.( ‹ÉÃûÿÿÿÿ8¤„Æë1J$ba590207-aefb-46fd-8675-f1b1b35aa013
+r	java:S106#"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8¦„Æë1J$4a973a85-96ec-4e13-a62e-860ed28300d0

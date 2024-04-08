@@ -5,17 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c16e6731-d861-4a7c-a78a-b5d4313e6369" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/318110082d30a71131a461e018ff460f5c8cf42d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d2ae467fd88ccc2ae4e7846819bbf872de3a68c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd080294dc6749aab5167238a373052d60770c42" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd748b834b3b02bfb539db60dc9e79c734cf4b56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/1/318110082d30a71131a461e018ff460f5c8cf42d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/d/6d2ae467fd88ccc2ae4e7846819bbf872de3a68c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/d/bd080294dc6749aab5167238a373052d60770c42" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/d/cd748b834b3b02bfb539db60dc9e79c734cf4b56" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/3/1/318110082d30a71131a461e018ff460f5c8cf42d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/6/d/6d2ae467fd88ccc2ae4e7846819bbf872de3a68c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/b/d/bd080294dc6749aab5167238a373052d60770c42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/b/e/be2a6b1053daa5815152d1b6efb888ffb6a7880a" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/b/e/be2a6b1053daa5815152d1b6efb888ffb6a7880a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/securityhotspotstore/3/1/318110082d30a71131a461e018ff460f5c8cf42d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/securityhotspotstore/6/d/6d2ae467fd88ccc2ae4e7846819bbf872de3a68c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/securityhotspotstore/b/d/bd080294dc6749aab5167238a373052d60770c42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/org/example/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/org/example/Streams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,32 +66,38 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mimi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.multithreading.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.diffblue.cover.intellij&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CollectionDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Mimi.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Streams.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.org.example.multithreading.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Java/Java 8/org/example/collection_framework",
+    "settings.editor.selected.configurable": "com.diffblue.cover.intellij"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Java 8\org\example\collection_framework" />
+      <recent name="D:\Java\Java 8" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\Java 8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.functional_interface.Main" />
+  <component name="RunManager" selected="Application.CollectionDemo">
+    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collection_framework.interfaces.CollectionDemo" />
       <module name="Java 8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.functional_interface.*" />
+          <option name="PATTERN" value="org.example.collection_framework.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.defaultmethod.Test" />
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Streams" />
       <module name="Java 8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.defaultmethod.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionDemo" />
+        <item itemvalue="Application.Streams" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.org.example.multithreading.Main" />
         <item itemvalue="Application.Mimi" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>

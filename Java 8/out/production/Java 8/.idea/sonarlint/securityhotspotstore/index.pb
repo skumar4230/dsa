@@ -19,13 +19,9 @@ K
 org/example/puchu/Dodo.java,e\1\e19cdd52f8040f307fe507f20619488ffdc56833
 K
 org/example/puchu/Mimi.java,e\a\ea8b73cf49eb32398ac7dc3d4d51ef77fb78f4f9
-d
-4org/example/collection_framework/LearnArrayList.java,6\d\6d2ae467fd88ccc2ae4e7846819bbf872de3a68c
-E
-org/example/readme.md,3\1\318110082d30a71131a461e018ff460f5c8cf42d
-^
-.org/example/collection_framework/Iterator.java,b\d\bd080294dc6749aab5167238a373052d60770c42
 9
 	readme.md,2\7\275d783e298228506068436512433d343feb52aa
 M
 org/example/dsa/Practice.java,b\e\be2a6b1053daa5815152d1b6efb888ffb6a7880a
+f
+6org/example/collection_framework/NeedOfCollection.java,4\f\4fb0aa7d6cda52f631cb2e5e405436c260c17463

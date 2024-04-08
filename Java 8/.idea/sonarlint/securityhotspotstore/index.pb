@@ -25,3 +25,7 @@ M
 org/example/dsa/Practice.java,b\e\be2a6b1053daa5815152d1b6efb888ffb6a7880a
 f
 6org/example/collection_framework/NeedOfCollection.java,4\f\4fb0aa7d6cda52f631cb2e5e405436c260c17463
+o
+?org/example/collection_framework/interfaces/CollectionDemo.java,4\7\47d7db2b5c0b7c684f8b62dec34f4d5c48683e34
+i
+9org/example/collection_framework/interfaces/ListDemo.java,8\6\8643611f0f5016fe837c5320b98d43228c1295cf
