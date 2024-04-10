@@ -11,3 +11,4 @@ ________________________________________________________________________________
 # Q when to use collection interface- have all the common methods applicable to list set and queue, dequeu an sorted set
 # ans -whenever we want to represent a group of individual objects as a single entity then 
 -------------------------------------------------------------------------------------------------
+# we get output directly using collection name

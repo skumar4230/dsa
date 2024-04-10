@@ -29,3 +29,11 @@ o
 ?org/example/collection_framework/interfaces/CollectionDemo.java,4\7\47d7db2b5c0b7c684f8b62dec34f4d5c48683e34
 i
 9org/example/collection_framework/interfaces/ListDemo.java,8\6\8643611f0f5016fe837c5320b98d43228c1295cf
+r
+Borg/example/collection_framework/hashmap/CreateHashMapExample.java,0\2\02fd66904f20d8dfde81060ea5522227373911c0
+P
+ org/example/OptionalExample.java,3\2\32f7f2b75a3c595bce9007da602da1edd52487eb
+I
+org/example/Customer.java,7\0\70c52c4f5c9f8ec7e375e7741852f4bc6a59f308
+N
+org/example/practice/Test.java,a\4\a4db05bffac56f809c93410dc2e9ae3f45c85b9b

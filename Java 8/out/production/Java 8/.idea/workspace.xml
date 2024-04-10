@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c16e6731-d861-4a7c-a78a-b5d4313e6369" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Conditions and loops/out/production/Conditions and loops/com/sourav/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditions and loops/out/production/Conditions and loops/com/sourav/EnumExample$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditions and loops/out/production/Conditions and loops/com/sourav/EnumExample$Day.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditions and loops/out/production/Conditions and loops/com/sourav/EnumExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditions and loops/out/production/Conditions and loops/com/sourav/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditions and loops/out/production/Conditions and loops/com/sourav/Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditions and loops/out/production/Conditions and loops/com/sourav/Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditions and loops/src/com/sourav/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditions and loops/src/com/sourav/EnumExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conditions and loops/src/com/sourav/Switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47d7db2b5c0b7c684f8b62dec34f4d5c48683e34" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47d7db2b5c0b7c684f8b62dec34f4d5c48683e34" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fb0aa7d6cda52f631cb2e5e405436c260c17463" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fb0aa7d6cda52f631cb2e5e405436c260c17463" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/example/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/3/0/3022a428a9c6c4c978582b342463608ef2cd22f9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/4/f/4fb0aa7d6cda52f631cb2e5e405436c260c17463" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/4/f/4fb0aa7d6cda52f631cb2e5e405436c260c17463" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +71,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.CollectionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreateHashMapExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Mimi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionalExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
     &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test.executor&quot;: &quot;Run&quot;,
@@ -61,21 +83,26 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.diffblue.cover.intellij&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/Java 8/org/example/collection_framework&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Java 8\org\example\collection_framework" />
+      <recent name="D:\Java\Java 8" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\Java 8" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Streams">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.functional_interface.Main" />
+    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collection_framework.interfaces.CollectionDemo" />
       <module name="Java 8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.functional_interface.*" />
+          <option name="PATTERN" value="org.example.collection_framework.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.puchu.Mimi" />
+    <configuration name="CreateHashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collection_framework.hashmap.CreateHashMapExample" />
       <module name="Java 8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.puchu.*" />
+          <option name="PATTERN" value="org.example.collection_framework.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dsa.Practice" />
+    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.OptionalExample" />
       <module name="Java 8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.dsa.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.multithreading.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.multithreading.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.practice.Test" />
       <module name="Java 8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.multithreading.*" />
+          <option name="PATTERN" value="org.example.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,10 +165,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Streams" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.org.example.multithreading.Main" />
-        <item itemvalue="Application.Mimi" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.OptionalExample" />
+        <item itemvalue="Application.CreateHashMapExample" />
+        <item itemvalue="Application.CollectionDemo" />
       </list>
     </recent_temporary>
   </component>

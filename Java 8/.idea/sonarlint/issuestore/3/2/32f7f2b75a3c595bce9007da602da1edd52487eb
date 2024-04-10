@@ -1,0 +1,22 @@
+
+
+java:S3655""LCall "email1.isPresent()" or "!email1.isEmpty()" before accessing the value.(ˆÌ‚8ğü˜¯ì1J$9dae1750-4a3b-4e5e-b5b5-8fdc62e77df5
+r	java:S106"+Replace this use of System.out by a logger.(Ÿñ¿¤şÿÿÿÿ8Ñ•¯ì1J$5eafa4d4-db89-4278-9945-560bc415d0a0
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(üßÚëşÿÿÿÿ8Ò•¯ì1J$5065663a-2e8f-4acf-88c2-3cb01fe64649
+r	java:S106"+Replace this use of System.out by a logger.(î¸ıÿÿÿÿ8Ò•¯ì1J$4f5db7fa-bd4b-4a89-800a-ab397ecfd3bb
+m	java:S106!"+Replace this use of System.out by a logger.(«²—ß8Ó•¯ì1J$03cd7eeb-3a3a-41fc-be53-84c85db82b52
+m	java:S106""+Replace this use of System.out by a logger.(ˆÌ‚8Ó•¯ì1J$dd4d0554-67eb-4d52-98cd-957a375f4bb6
+m	java:S106("+Replace this use of System.out by a logger.(æüê8Ó•¯ì1J$837bc70e-5bdf-4696-811a-fd98f3c06a89
+~	java:S125$"<This block of commented-out lines of code should be removed.(œõ­¡8Ô•¯ì1J$6a1c20e5-ab5b-4fe7-b089-542061a91698
+m	java:S106,"+Replace this use of System.out by a logger.(×®‡¿8Ô•¯ì1J$c1ad6a5f-8ee8-44f1-845e-3296bca2865e
+ƒ	java:S125*"<This block of commented-out lines of code should be removed.(šŠŸØşÿÿÿÿ8Ô•¯ì1J$a91ff597-7f69-4587-94b3-e11845b6182b
+r	java:S106-"+Replace this use of System.out by a logger.(±Š Áøÿÿÿÿ8Ø•¯ì1J$8d1c65b7-b816-4832-a78c-c4b19313176b
+r	java:S1061"+Replace this use of System.out by a logger.(Ù¥ÍÎûÿÿÿÿ8Ù•¯ì1J$d0093f22-74de-41a5-9cb5-2d8917e5bede
+m	java:S1063"+Replace this use of System.out by a logger.(ÒîÌì8Ù•¯ì1J$84cb64f2-7090-4168-ad34-ccc7d4c4aa21
+‚
+java:S16125"?Replace this lambda with method reference 'Customer::getPhone'.(Óê«Ÿ8Û•¯ì1J$e3d9b451-322e-4ddd-b93c-f2ceed9ecae8
+m	java:S1065"+Replace this use of System.out by a logger.(Óê«Ÿ8Û•¯ì1J$b00ca3e6-0291-41be-ba3e-e924b84a515f
+m
+java:S22017"*The return value of "orElse" must be used.(¨—¶„8‡–¯ì1J$9a0baf60-509d-4afe-b282-ac83e1a19f1d
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Œı˜¯ì1J$c742bb35-1968-4e8a-b0a0-7d62f8a4f77f
